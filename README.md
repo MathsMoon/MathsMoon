@@ -22,6 +22,10 @@
 
 ###
 
+<p align="center">Redes sociais para contato:</p>
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/mathes_mck/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -33,16 +37,16 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="170" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif"  />
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathsMoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathsMoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="170" src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif"  />
 
 ###
 
