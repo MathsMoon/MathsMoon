@@ -2,9 +2,13 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e desenvolvimento de sistemas na FPB, atualmente participo do desafio #100DaysOfCode procurando melhorar minha compreensão em java.<br><br>Meu desejo é trabalhar com desenvolvimento de software ou backEnd com o java, por hora estou estudando para conseguir utilizar as ferramentas de Spring e BD Oracle e MySQL. Estudo por conta própria e atualmente viso essas tecnologias para começar minha carreira como desenvolvedor.</p>
+<br clear="both">
+
+<h3 align="center">Sou estudante de Análise e desenvolvimento de sistemas na FPB, atualmente participo do desafio #100DaysOfCode procurando melhorar minha compreensão em java.<br><br>Meu desejo é trabalhar com desenvolvimento de software ou backEnd com o java, por hora estou estudando para conseguir utilizar as ferramentas de Spring e BD Oracle e MySQL. Estudo por conta própria e atualmente viso essas tecnologias para começar minha carreira como desenvolvedor.</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -22,7 +26,7 @@
 
 ###
 
-<p align="left">Redes sociais para contato:</p>
+<h3 align="left">Redes sociais para contato:</h3>
 
 ###
 
@@ -46,7 +50,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathsMoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathsMoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathsMoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
