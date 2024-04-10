@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Sou estudante de Análise e desenvolvimento de sistemas na FPB, atualmente participo do desafio #100DaysOfCode procurando melhorar minha compreensão em java.<br><br>Meu desejo é trabalhar com desenvolvimento de software ou backEnd com o java, por hora estou estudando para conseguir utilizar as ferramentas de Spring e BD Oracle e MySQL. Estudo por conta própria e atualmente viso essas tecnologias para começar minha carreira como desenvolvedor.</h3>
+<h3 align="center">Sou estudante de Análise e desenvolvimento de sistemas na FPB, atualmente participo do desafio #100DaysOfCode procurando melhorar minhas habilidades de programação e lógica começando pelo java.<br><br>Meu desejo é trabalhar com desenvolvimento de software ou backEnd com o java, por hora estou estudando para conseguir utilizar as ferramentas de Spring e BD Oracle e MySQL. Estudo por conta própria e atualmente viso essas tecnologias para começar minha carreira como desenvolvedor.</h3>
 
 ###
 
